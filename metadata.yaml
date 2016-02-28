@@ -1,0 +1,46 @@
+_repo: The-Autobiography-of-Benvenuto-Cellini_4028
+contributor:
+  translator:
+    agent_name: Symonds, John Addington
+    alias: Symonds, J. A. (John Addington)
+    birthdate: 1840
+    deathdate: 1893
+    gutenberg_agent_id: '1504'
+    url: http://www.gutenberg.org/2009/agents/1504
+    wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
+creator:
+  author:
+    agent_name: Cellini, Benvenuto
+    alias: Chellini, Benvenuto
+    birthdate: 1500
+    deathdate: 1571
+    gutenberg_agent_id: '1363'
+    url: http://www.gutenberg.org/2009/agents/1363
+    wikipedia: http://en.wikipedia.org/wiki/Benvenuto_Cellini
+description: 'Benvenuto Cellini was a celebrated Renaissance sculptor and goldsmith;
+  a passionate craftsman who was admired and resented by the most powerful political
+  and artistic personalities in sixteenth-century Florence, Rome and Paris. He was
+  also a murderer and a braggart, a shameless adventurer who at different times experienced
+  both papal persecution and imprisonment, and the adulation of the royal court. Inn-keepers
+  and prostitutes, kings and cardinals, artists and soldiers rub shoulders in the
+  pages of his notorious autobiography: a vivid portrait of the manners and morals
+  of both the rulers of the day and of their subjects. Written with supreme powers
+  of invective and an irrepressible sense of humor, this is an unrivalled glimpse
+  into the palaces and prisons of the Italy of Michelangelo and the Medici.'
+gutenberg_bookshelf:
+- Harvard Classics
+- Art
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4028'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cellini, Benvenuto, 1500-1571'
+- !lcsh 'Sculptors -- Italy -- Biography'
+- !lcc 'NB'
+title: The Autobiography of Benvenuto Cellini
+url: http://www.gutenberg.org/ebooks/4028
