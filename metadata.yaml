@@ -1,5 +1,5 @@
 _repo: The-Autobiography-of-Benvenuto-Cellini_4028
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Symonds, John Addington
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1504'
     url: http://www.gutenberg.org/2009/agents/1504
     wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cellini, Benvenuto
@@ -28,6 +31,8 @@ description: 'Benvenuto Cellini was a celebrated Renaissance sculptor and goldsm
   of both the rulers of the day and of their subjects. Written with supreme powers
   of invective and an irrepressible sense of humor, this is an unrivalled glimpse
   into the palaces and prisons of the Italy of Michelangelo and the Medici.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4028#The-Autobiography-of-Benvenuto-Cellini
 gutenberg_bookshelf:
 - Harvard Classics
 - Art
