@@ -1,5 +1,5 @@
 _repo: The-Autobiography-of-Benvenuto-Cellini_4028
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Symonds, John Addington
@@ -48,5 +48,6 @@ subjects:
 - !lcsh 'Cellini, Benvenuto, 1500-1571'
 - !lcsh 'Sculptors -- Italy -- Biography'
 - !lcc 'NB'
+- GITenberg
 title: The Autobiography of Benvenuto Cellini
 url: http://www.gutenberg.org/ebooks/4028
